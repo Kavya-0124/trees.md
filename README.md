@@ -24,6 +24,4 @@ A tree usually represents the hierarchy of elements and depicts the relationship
    8.Internal node: Nodes with at least one child. Here, nodes B, D and C are internal nodes.
    9.Depth: Depth of a node is the number of edges from root to that node. Here, the depth of nodes A, C, H and I are 0, 1, 2 and 3 respectively.
    10.Height: Height of a node is the number of edges from that node to the deepest leaf. Here, the height of node A is 3, since the deepest leaf from this node is node I. And         similarly, height of node C is 2.
-
-
 </details>
