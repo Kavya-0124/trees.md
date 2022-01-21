@@ -7,8 +7,9 @@ A tree usually represents the hierarchy of elements and depicts the relationship
 Every circle represents a node, and every arrow represents the hierarchy. For you to be able to understand the terminology associated with trees.
   
 Terminologies used in trees:
-
+<br>
    1.Root: The topmost node of a tree is called the root. There is no edge pointing to it, but one or more than one edge originating from it. Here, A is the root node.
+  </br>
    2.Parent: Any node which connects to the child. Node which has an edge pointing to some other node. Here, C is the parent of H.
    3.Child: Any node which is connected to a parent node. Node which has an edge pointing to it from some other node. Here, H is the child of C.
    4.Siblings: Nodes belonging to the same parent are called siblings of each other. Nodes B, C and D are siblings of each other, since they have the same parent node A.
