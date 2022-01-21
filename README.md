@@ -38,3 +38,21 @@ Terminologies used in trees:
    10.Height: Height of a node is the number of edges from that node to the deepest leaf. Here, the height of node A is 3, since the deepest leaf from this node is node I. And         similarly, height of node C is 2.
    </br>
 </details>
+
+### What is a Binary Tree?
+
+<details>
+  <summary>Answer</summary>
+  A binary tree is a special type of tree where each node has a degree equal to or less than two which means each node should have at most two children.
+<br>  
+ 1.A tree with n nodes has n-1 Why n-1?
+ Because in a tree, there is one and only edge corresponding to all the nodes except the root           node. The root node has no parent, hence no edge pointing to it. Therefore, a total of n-1 edges.
+</br>
+<br>
+2.The degree of a node in a tree is the number of children of a node.
+</br>
+<br>
+3.The degree of a tree is the highest degree of a node among all the nodes present in the tree.
+</br>
+</details>
+  
