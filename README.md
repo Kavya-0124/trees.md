@@ -4,15 +4,9 @@
 <details>
 <summary>Answer</summary>
 A tree usually represents the hierarchy of elements and depicts the relationships between the elements. Trees are considered as one of the largely used facets of data structures.
-</details>
-
-
-<details>
-  <summary>Answer</suummary>
-![Image_1](https://user-images.githubusercontent.com/81321487/150477215-00bd0493-c5ec-4e46-8c06-b1c0bc23c7d4.jpg)
+Every circle represents a node, and every arrow represents the hierarchy. For you to be able to understand the terminology associated with trees.
   
-  Every circle represents a node, and every arrow represents the hierarchy. For you to be able to understand the terminology associated with trees.
-  Terminologies used in trees:
+Terminologies used in trees:
 
    1.Root: The topmost node of a tree is called the root. There is no edge pointing to it, but one or more than one edge originating from it. Here, A is the root node.
    2.Parent: Any node which connects to the child. Node which has an edge pointing to some other node. Here, C is the parent of H.
